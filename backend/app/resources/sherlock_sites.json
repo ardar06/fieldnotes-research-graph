@@ -1,0 +1,1736 @@
+{
+  "2Dimensions": {
+    "url": "https://2Dimensions.com/a/{}",
+    "url_main": "https://2Dimensions.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "7Cups": {
+    "url": "https://www.7cups.com/@{}",
+    "url_main": "https://www.7cups.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "9GAG": {
+    "url": "https://www.9gag.com/u/{}",
+    "url_main": "https://www.9gag.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "About.me": {
+    "url": "https://about.me/{}",
+    "url_main": "https://about.me/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Academia.edu": {
+    "url": "https://independent.academia.edu/{}",
+    "url_main": "https://www.academia.edu/",
+    "error_codes": null,
+    "regex_check": "^[^.]*$"
+  },
+  "Airbit": {
+    "url": "https://airbit.com/{}",
+    "url_main": "https://airbit.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Airliners": {
+    "url": "https://www.airliners.net/user/{}/profile/photos",
+    "url_main": "https://www.airliners.net/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Apple Developer": {
+    "url": "https://developer.apple.com/forums/profile/{}",
+    "url_main": "https://developer.apple.com",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Archive of Our Own": {
+    "url": "https://archiveofourown.org/users/{}",
+    "url_main": "https://archiveofourown.org/",
+    "error_codes": null,
+    "regex_check": "^[^.]*?$"
+  },
+  "Arduino Forum": {
+    "url": "https://forum.arduino.cc/u/{}/summary",
+    "url_main": "https://forum.arduino.cc/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "ArtStation": {
+    "url": "https://www.artstation.com/{}",
+    "url_main": "https://www.artstation.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Asciinema": {
+    "url": "https://asciinema.org/~{}",
+    "url_main": "https://asciinema.org",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Ask Fedora": {
+    "url": "https://ask.fedoraproject.org/u/{}",
+    "url_main": "https://ask.fedoraproject.org/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Atcoder": {
+    "url": "https://atcoder.jp/users/{}",
+    "url_main": "https://atcoder.jp/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Vjudge": {
+    "url": "https://VJudge.net/user/{}",
+    "url_main": "https://VJudge.net/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Audiojungle": {
+    "url": "https://audiojungle.net/user/{}",
+    "url_main": "https://audiojungle.net/",
+    "error_codes": null,
+    "regex_check": "^[a-zA-Z0-9_]+$"
+  },
+  "Autofrage": {
+    "url": "https://www.autofrage.net/nutzer/{}",
+    "url_main": "https://www.autofrage.net/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Bandcamp": {
+    "url": "https://www.bandcamp.com/{}",
+    "url_main": "https://www.bandcamp.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Behance": {
+    "url": "https://www.behance.net/{}",
+    "url_main": "https://www.behance.net/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Bezuzyteczna": {
+    "url": "https://bezuzyteczna.pl/uzytkownicy/{}",
+    "url_main": "https://bezuzyteczna.pl",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "BiggerPockets": {
+    "url": "https://www.biggerpockets.com/users/{}",
+    "url_main": "https://www.biggerpockets.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "BioHacking": {
+    "url": "https://forum.dangerousthings.com/u/{}",
+    "url_main": "https://forum.dangerousthings.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "BitBucket": {
+    "url": "https://bitbucket.org/{}/",
+    "url_main": "https://bitbucket.org/",
+    "error_codes": null,
+    "regex_check": "^[a-zA-Z0-9-_]{1,30}$"
+  },
+  "Bitwarden Forum": {
+    "url": "https://community.bitwarden.com/u/{}/summary",
+    "url_main": "https://bitwarden.com/",
+    "error_codes": null,
+    "regex_check": "^(?![.-])[a-zA-Z0-9_.-]{3,20}$"
+  },
+  "Blipfoto": {
+    "url": "https://www.blipfoto.com/{}",
+    "url_main": "https://www.blipfoto.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Blogger": {
+    "url": "https://{}.blogspot.com",
+    "url_main": "https://www.blogger.com/",
+    "error_codes": null,
+    "regex_check": "^[a-zA-Z][a-zA-Z0-9_-]*$"
+  },
+  "Bluesky": {
+    "url": "https://bsky.app/profile/{}.bsky.social",
+    "url_main": "https://bsky.app/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Bookcrossing": {
+    "url": "https://www.bookcrossing.com/mybookshelf/{}/",
+    "url_main": "https://www.bookcrossing.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "BraveCommunity": {
+    "url": "https://community.brave.com/u/{}/",
+    "url_main": "https://community.brave.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "BugCrowd": {
+    "url": "https://bugcrowd.com/{}",
+    "url_main": "https://bugcrowd.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "BuyMeACoffee": {
+    "url": "https://buymeacoff.ee/{}",
+    "url_main": "https://www.buymeacoffee.com/",
+    "error_codes": null,
+    "regex_check": "[a-zA-Z0-9]{3,15}"
+  },
+  "BuzzFeed": {
+    "url": "https://buzzfeed.com/{}",
+    "url_main": "https://buzzfeed.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Cfx.re Forum": {
+    "url": "https://forum.cfx.re/u/{}/summary",
+    "url_main": "https://forum.cfx.re",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "CGTrader": {
+    "url": "https://www.cgtrader.com/{}",
+    "url_main": "https://www.cgtrader.com",
+    "error_codes": null,
+    "regex_check": "^[^.]*?$"
+  },
+  "CNET": {
+    "url": "https://www.cnet.com/profiles/{}/",
+    "url_main": "https://www.cnet.com/",
+    "error_codes": null,
+    "regex_check": "^[a-z].*$"
+  },
+  "CSSBattle": {
+    "url": "https://cssbattle.dev/player/{}",
+    "url_main": "https://cssbattle.dev",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "CTAN": {
+    "url": "https://ctan.org/author/{}",
+    "url_main": "https://ctan.org/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Caddy Community": {
+    "url": "https://caddy.community/u/{}/summary",
+    "url_main": "https://caddy.community/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Car Talk Community": {
+    "url": "https://community.cartalk.com/u/{}/summary",
+    "url_main": "https://community.cartalk.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Carrd": {
+    "url": "https://{}.carrd.co/",
+    "url_main": "https://carrd.co/",
+    "error_codes": null,
+    "regex_check": "^[a-zA-Z0-9_-]{3,50}$"
+  },
+  "CashApp": {
+    "url": "https://cash.app/${}",
+    "url_main": "https://cash.app",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Championat": {
+    "url": "https://www.championat.com/user/{}",
+    "url_main": "https://www.championat.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Chaos": {
+    "url": "https://chaos.social/@{}",
+    "url_main": "https://chaos.social/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Choice Community": {
+    "url": "https://choice.community/u/{}/summary",
+    "url_main": "https://choice.community/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Clapper": {
+    "url": "https://clapperapp.com/{}",
+    "url_main": "https://clapperapp.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "CloudflareCommunity": {
+    "url": "https://community.cloudflare.com/u/{}",
+    "url_main": "https://community.cloudflare.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Clubhouse": {
+    "url": "https://www.clubhouse.com/@{}",
+    "url_main": "https://www.clubhouse.com",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Codeberg": {
+    "url": "https://codeberg.org/{}",
+    "url_main": "https://codeberg.org/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Codeforces": {
+    "url": "https://codeforces.com/profile/{}",
+    "url_main": "https://codeforces.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Codepen": {
+    "url": "https://codepen.io/{}",
+    "url_main": "https://codepen.io/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Coderwall": {
+    "url": "https://coderwall.com/{}",
+    "url_main": "https://coderwall.com",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Codewars": {
+    "url": "https://www.codewars.com/users/{}",
+    "url_main": "https://www.codewars.com",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Coinvote": {
+    "url": "https://coinvote.cc/profile/{}",
+    "url_main": "https://coinvote.cc/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "ColourLovers": {
+    "url": "https://www.colourlovers.com/lover/{}",
+    "url_main": "https://www.colourlovers.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Coroflot": {
+    "url": "https://www.coroflot.com/{}",
+    "url_main": "https://coroflot.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Cracked Forum": {
+    "url": "https://cracked.ax/{}",
+    "url_main": "https://cracked.ax/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Credly": {
+    "url": "https://www.credly.com/users/{}",
+    "url_main": "https://www.credly.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Crevado": {
+    "url": "https://{}.crevado.com",
+    "url_main": "https://crevado.com/",
+    "error_codes": null,
+    "regex_check": "^[\\w@-]+?$"
+  },
+  "Crowdin": {
+    "url": "https://crowdin.com/profile/{}",
+    "url_main": "https://crowdin.com/",
+    "error_codes": null,
+    "regex_check": "^[a-zA-Z0-9._-]{2,255}$"
+  },
+  "Cryptomator Forum": {
+    "url": "https://community.cryptomator.org/u/{}",
+    "url_main": "https://community.cryptomator.org/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "DEV Community": {
+    "url": "https://dev.to/{}",
+    "url_main": "https://dev.to/",
+    "error_codes": null,
+    "regex_check": "^[a-zA-Z][a-zA-Z0-9_-]*$"
+  },
+  "DailyMotion": {
+    "url": "https://www.dailymotion.com/{}",
+    "url_main": "https://www.dailymotion.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "dcinside": {
+    "url": "https://gallog.dcinside.com/{}",
+    "url_main": "https://www.dcinside.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Discogs": {
+    "url": "https://www.discogs.com/user/{}",
+    "url_main": "https://www.discogs.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Discuss.Elastic.co": {
+    "url": "https://discuss.elastic.co/u/{}",
+    "url_main": "https://discuss.elastic.co/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Disqus": {
+    "url": "https://disqus.com/{}",
+    "url_main": "https://disqus.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Docker Hub": {
+    "url": "https://hub.docker.com/u/{}/",
+    "url_main": "https://hub.docker.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Eintracht Frankfurt Forum": {
+    "url": "https://community.eintracht.de/fans/{}",
+    "url_main": "https://community.eintracht.de/",
+    "error_codes": null,
+    "regex_check": "^[^.]*?$"
+  },
+  "Empretienda AR": {
+    "url": "https://{}.empretienda.com.ar",
+    "url_main": "https://empretienda.com",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Envato Forum": {
+    "url": "https://forums.envato.com/u/{}",
+    "url_main": "https://forums.envato.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Exposure": {
+    "url": "https://{}.exposure.co/",
+    "url_main": "https://exposure.co/",
+    "error_codes": null,
+    "regex_check": "^[a-zA-Z0-9-]{1,63}$"
+  },
+  "exophase": {
+    "url": "https://www.exophase.com/user/{}/",
+    "url_main": "https://www.exophase.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "EyeEm": {
+    "url": "https://www.eyeem.com/u/{}",
+    "url_main": "https://www.eyeem.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "F3.cool": {
+    "url": "https://f3.cool/{}/",
+    "url_main": "https://f3.cool/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Fameswap": {
+    "url": "https://fameswap.com/user/{}",
+    "url_main": "https://fameswap.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Fandom": {
+    "url": "https://www.fandom.com/u/{}",
+    "url_main": "https://www.fandom.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Finanzfrage": {
+    "url": "https://www.finanzfrage.net/nutzer/{}",
+    "url_main": "https://www.finanzfrage.net/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Flickr": {
+    "url": "https://www.flickr.com/people/{}",
+    "url_main": "https://www.flickr.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Flightradar24": {
+    "url": "https://my.flightradar24.com/{}",
+    "url_main": "https://www.flightradar24.com/",
+    "error_codes": null,
+    "regex_check": "^[a-zA-Z0-9_]{3,20}$"
+  },
+  "Flipboard": {
+    "url": "https://flipboard.com/@{}",
+    "url_main": "https://flipboard.com/",
+    "error_codes": null,
+    "regex_check": "^([a-zA-Z0-9_]){1,15}$"
+  },
+  "FortniteTracker": {
+    "url": "https://fortnitetracker.com/profile/all/{}",
+    "url_main": "https://fortnitetracker.com/challenges",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Fosstodon": {
+    "url": "https://fosstodon.org/@{}",
+    "url_main": "https://fosstodon.org/",
+    "error_codes": null,
+    "regex_check": "^[a-zA-Z0-9_]{1,30}$"
+  },
+  "Framapiaf": {
+    "url": "https://framapiaf.org/@{}",
+    "url_main": "https://framapiaf.org",
+    "error_codes": null,
+    "regex_check": "^[a-zA-Z0-9_]{1,30}$"
+  },
+  "Freesound": {
+    "url": "https://freesound.org/people/{}/",
+    "url_main": "https://freesound.org/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Gamespot": {
+    "url": "https://www.gamespot.com/profile/{}/",
+    "url_main": "https://www.gamespot.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "GameFAQs": {
+    "url": "https://gamefaqs.gamespot.com/community/{}",
+    "url_main": "https://gamefaqs.gamespot.com",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Genius (Artists)": {
+    "url": "https://genius.com/artists/{}",
+    "url_main": "https://genius.com/",
+    "error_codes": null,
+    "regex_check": "^[a-zA-Z0-9]{5,50}$"
+  },
+  "Genius (Users)": {
+    "url": "https://genius.com/{}",
+    "url_main": "https://genius.com/",
+    "error_codes": null,
+    "regex_check": "^[a-zA-Z0-9]*?$"
+  },
+  "Gesundheitsfrage": {
+    "url": "https://www.gesundheitsfrage.net/nutzer/{}",
+    "url_main": "https://www.gesundheitsfrage.net/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "GetMyUni": {
+    "url": "https://www.getmyuni.com/user/{}",
+    "url_main": "https://getmyuni.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Giant Bomb": {
+    "url": "https://www.giantbomb.com/profile/{}/",
+    "url_main": "https://www.giantbomb.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "GitBook": {
+    "url": "https://{}.gitbook.io/",
+    "url_main": "https://gitbook.com/",
+    "error_codes": null,
+    "regex_check": "^[\\w@-]+?$"
+  },
+  "GitHub": {
+    "url": "https://www.github.com/{}",
+    "url_main": "https://www.github.com/",
+    "error_codes": null,
+    "regex_check": "^[a-zA-Z0-9](?:[a-zA-Z0-9]|-(?=[a-zA-Z0-9])){0,38}$"
+  },
+  "Gitea": {
+    "url": "https://gitea.com/{}",
+    "url_main": "https://gitea.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Gitee": {
+    "url": "https://gitee.com/{}",
+    "url_main": "https://gitee.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "GoodReads": {
+    "url": "https://www.goodreads.com/{}",
+    "url_main": "https://www.goodreads.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Gradle": {
+    "url": "https://plugins.gradle.org/u/{}",
+    "url_main": "https://gradle.org/",
+    "error_codes": null,
+    "regex_check": "^(?!-)[a-zA-Z0-9-]{3,}(?<!-)$"
+  },
+  "Gutefrage": {
+    "url": "https://www.gutefrage.net/nutzer/{}",
+    "url_main": "https://www.gutefrage.net/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "HackTheBox": {
+    "url": "https://forum.hackthebox.com/u/{}",
+    "url_main": "https://forum.hackthebox.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Hackaday": {
+    "url": "https://hackaday.io/{}",
+    "url_main": "https://hackaday.io/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "HackerEarth": {
+    "url": "https://hackerearth.com/@{}",
+    "url_main": "https://hackerearth.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "HackerSploit": {
+    "url": "https://forum.hackersploit.org/u/{}",
+    "url_main": "https://forum.hackersploit.org/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "HackMD": {
+    "url": "https://hackmd.io/@{}",
+    "url_main": "https://hackmd.io/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Harvard Scholar": {
+    "url": "https://scholar.harvard.edu/{}",
+    "url_main": "https://scholar.harvard.edu/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Hashnode": {
+    "url": "https://hashnode.com/@{}",
+    "url_main": "https://hashnode.com",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Houzz": {
+    "url": "https://houzz.com/user/{}",
+    "url_main": "https://houzz.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "HubPages": {
+    "url": "https://hubpages.com/@{}",
+    "url_main": "https://hubpages.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Hugging Face": {
+    "url": "https://huggingface.co/{}",
+    "url_main": "https://huggingface.co/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "IFTTT": {
+    "url": "https://www.ifttt.com/p/{}",
+    "url_main": "https://www.ifttt.com/",
+    "error_codes": null,
+    "regex_check": "^[A-Za-z0-9]{3,35}$"
+  },
+  "Ifunny": {
+    "url": "https://ifunny.co/user/{}",
+    "url_main": "https://ifunny.co/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Icons8 Community": {
+    "url": "https://community.icons8.com/u/{}/summary",
+    "url_main": "https://community.icons8.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "ImgUp.cz": {
+    "url": "https://imgup.cz/{}",
+    "url_main": "https://imgup.cz/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Imgur": {
+    "url": "https://imgur.com/user/{}",
+    "url_main": "https://imgur.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "imood": {
+    "url": "https://www.imood.com/users/{}",
+    "url_main": "https://www.imood.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Instagram": {
+    "url": "https://instagram.com/{}",
+    "url_main": "https://instagram.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Instructables": {
+    "url": "https://www.instructables.com/member/{}",
+    "url_main": "https://www.instructables.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Ionic Forum": {
+    "url": "https://forum.ionicframework.com/u/{}",
+    "url_main": "https://forum.ionicframework.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Issuu": {
+    "url": "https://issuu.com/{}",
+    "url_main": "https://issuu.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Itch.io": {
+    "url": "https://{}.itch.io/",
+    "url_main": "https://itch.io/",
+    "error_codes": null,
+    "regex_check": "^[\\w@-]+?$"
+  },
+  "Jellyfin Weblate": {
+    "url": "https://translate.jellyfin.org/user/{}/",
+    "url_main": "https://translate.jellyfin.org/",
+    "error_codes": null,
+    "regex_check": "^[a-zA-Z0-9@._-]{1,150}$"
+  },
+  "Jimdo": {
+    "url": "https://{}.jimdosite.com",
+    "url_main": "https://jimdosite.com/",
+    "error_codes": null,
+    "regex_check": "^[\\w@-]+?$"
+  },
+  "Joplin Forum": {
+    "url": "https://discourse.joplinapp.org/u/{}",
+    "url_main": "https://discourse.joplinapp.org/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Kaggle": {
+    "url": "https://www.kaggle.com/{}",
+    "url_main": "https://www.kaggle.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Keybase": {
+    "url": "https://keybase.io/{}",
+    "url_main": "https://keybase.io/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Kick": {
+    "url": "https://kick.com/{}",
+    "url_main": "https://kick.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Kongregate": {
+    "url": "https://www.kongregate.com/accounts/{}",
+    "url_main": "https://www.kongregate.com/",
+    "error_codes": null,
+    "regex_check": "^[a-zA-Z][a-zA-Z0-9_-]*$"
+  },
+  "LOR": {
+    "url": "https://www.linux.org.ru/people/{}/profile",
+    "url_main": "https://linux.org.ru/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Laracast": {
+    "url": "https://laracasts.com/@{}",
+    "url_main": "https://laracasts.com/",
+    "error_codes": null,
+    "regex_check": "^[a-zA-Z0-9_-]{3,}$"
+  },
+  "Launchpad": {
+    "url": "https://launchpad.net/~{}",
+    "url_main": "https://launchpad.net/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "LeetCode": {
+    "url": "https://leetcode.com/{}",
+    "url_main": "https://leetcode.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Lichess": {
+    "url": "https://lichess.org/@/{}",
+    "url_main": "https://lichess.org",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "LinuxFR.org": {
+    "url": "https://linuxfr.org/users/{}",
+    "url_main": "https://linuxfr.org/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "LiveJournal": {
+    "url": "https://{}.livejournal.com",
+    "url_main": "https://www.livejournal.com/",
+    "error_codes": null,
+    "regex_check": "^[a-zA-Z][a-zA-Z0-9_-]*$"
+  },
+  "Lobsters": {
+    "url": "https://lobste.rs/u/{}",
+    "url_main": "https://lobste.rs/",
+    "error_codes": null,
+    "regex_check": "[A-Za-z0-9][A-Za-z0-9_-]{0,24}"
+  },
+  "LottieFiles": {
+    "url": "https://lottiefiles.com/{}",
+    "url_main": "https://lottiefiles.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "MMORPG Forum": {
+    "url": "https://forums.mmorpg.com/profile/{}",
+    "url_main": "https://forums.mmorpg.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Mamot": {
+    "url": "https://mamot.fr/@{}",
+    "url_main": "https://mamot.fr/",
+    "error_codes": null,
+    "regex_check": "^[a-zA-Z0-9_]{1,30}$"
+  },
+  "Memrise": {
+    "url": "https://www.memrise.com/user/{}/",
+    "url_main": "https://www.memrise.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "MixCloud": {
+    "url": "https://www.mixcloud.com/{}/",
+    "url_main": "https://www.mixcloud.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Monkeytype": {
+    "url": "https://monkeytype.com/profile/{}",
+    "url_main": "https://monkeytype.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Motorradfrage": {
+    "url": "https://www.motorradfrage.net/nutzer/{}",
+    "url_main": "https://www.motorradfrage.net/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "MyAnimeList": {
+    "url": "https://myanimelist.net/profile/{}",
+    "url_main": "https://myanimelist.net/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "MyMiniFactory": {
+    "url": "https://www.myminifactory.com/users/{}",
+    "url_main": "https://www.myminifactory.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Myspace": {
+    "url": "https://myspace.com/{}",
+    "url_main": "https://myspace.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "namuwiki": {
+    "url": "https://namu.wiki/w/%EC%82%AC%EC%9A%A9%EC%9E%90:{}",
+    "url_main": "https://namu.wiki/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Naver": {
+    "url": "https://blog.naver.com/{}",
+    "url_main": "https://naver.com",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Needrom": {
+    "url": "https://www.needrom.com/author/{}/",
+    "url_main": "https://www.needrom.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Newgrounds": {
+    "url": "https://{}.newgrounds.com",
+    "url_main": "https://newgrounds.com",
+    "error_codes": null,
+    "regex_check": "^[a-zA-Z][a-zA-Z0-9_-]*$"
+  },
+  "Nextcloud Forum": {
+    "url": "https://help.nextcloud.com/u/{}/summary",
+    "url_main": "https://nextcloud.com/",
+    "error_codes": null,
+    "regex_check": "^(?![.-])[a-zA-Z0-9_.-]{3,20}$"
+  },
+  "Nightbot": {
+    "url": "https://nightbot.tv/t/{}/commands",
+    "url_main": "https://nightbot.tv/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "NintendoLife": {
+    "url": "https://www.nintendolife.com/users/{}",
+    "url_main": "https://www.nintendolife.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "NotABug.org": {
+    "url": "https://notabug.org/{}",
+    "url_main": "https://notabug.org/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Nothing Community": {
+    "url": "https://nothing.community/u/{}",
+    "url_main": "https://nothing.community/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Nyaa.si": {
+    "url": "https://nyaa.si/user/{}",
+    "url_main": "https://nyaa.si/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Open Collective": {
+    "url": "https://opencollective.com/{}",
+    "url_main": "https://opencollective.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "OpenGameArt": {
+    "url": "https://opengameart.org/users/{}",
+    "url_main": "https://opengameart.org",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "OpenStreetMap": {
+    "url": "https://www.openstreetmap.org/user/{}",
+    "url_main": "https://www.openstreetmap.org/",
+    "error_codes": null,
+    "regex_check": "^[^.]*?$"
+  },
+  "Opensource": {
+    "url": "https://opensource.com/users/{}",
+    "url_main": "https://opensource.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Patreon": {
+    "url": "https://www.patreon.com/{}",
+    "url_main": "https://www.patreon.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "PentesterLab": {
+    "url": "https://pentesterlab.com/profile/{}",
+    "url_main": "https://pentesterlab.com/",
+    "error_codes": null,
+    "regex_check": "^[\\w]{4,30}$"
+  },
+  "Periscope": {
+    "url": "https://www.periscope.tv/{}/",
+    "url_main": "https://www.periscope.tv/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Pinkbike": {
+    "url": "https://www.pinkbike.com/u/{}/",
+    "url_main": "https://www.pinkbike.com/",
+    "error_codes": null,
+    "regex_check": "^[^.]*?$"
+  },
+  "pixelfed.social": {
+    "url": "https://pixelfed.social/{}/",
+    "url_main": "https://pixelfed.social",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "PlayStore": {
+    "url": "https://play.google.com/store/apps/developer?id={}",
+    "url_main": "https://play.google.com/store",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Playstrategy": {
+    "url": "https://playstrategy.org/@/{}",
+    "url_main": "https://playstrategy.org",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Pokemon Showdown": {
+    "url": "https://pokemonshowdown.com/users/{}",
+    "url_main": "https://pokemonshowdown.com",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Polarsteps": {
+    "url": "https://polarsteps.com/{}",
+    "url_main": "https://polarsteps.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Polygon": {
+    "url": "https://www.polygon.com/users/{}",
+    "url_main": "https://www.polygon.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "ProductHunt": {
+    "url": "https://www.producthunt.com/@{}",
+    "url_main": "https://www.producthunt.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Pronouns.page": {
+    "url": "https://pronouns.page/@{}",
+    "url_main": "https://pronouns.page/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "PyPi": {
+    "url": "https://pypi.org/user/{}",
+    "url_main": "https://pypi.org",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Rajce.net": {
+    "url": "https://{}.rajce.idnes.cz/",
+    "url_main": "https://www.rajce.idnes.cz/",
+    "error_codes": null,
+    "regex_check": "^[\\w@-]+?$"
+  },
+  "Rarible": {
+    "url": "https://rarible.com/marketplace/api/v4/urls/{}",
+    "url_main": "https://rarible.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Rate Your Music": {
+    "url": "https://rateyourmusic.com/~{}",
+    "url_main": "https://rateyourmusic.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Rclone Forum": {
+    "url": "https://forum.rclone.org/u/{}",
+    "url_main": "https://forum.rclone.org/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Redbubble": {
+    "url": "https://www.redbubble.com/people/{}",
+    "url_main": "https://www.redbubble.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Reisefrage": {
+    "url": "https://www.reisefrage.net/nutzer/{}",
+    "url_main": "https://www.reisefrage.net/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Replit.com": {
+    "url": "https://replit.com/@{}",
+    "url_main": "https://replit.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Roblox": {
+    "url": "https://www.roblox.com/user.aspx?username={}",
+    "url_main": "https://www.roblox.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "RoyalCams": {
+    "url": "https://royalcams.com/profile/{}",
+    "url_main": "https://royalcams.com",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "RubyGems": {
+    "url": "https://rubygems.org/profiles/{}",
+    "url_main": "https://rubygems.org/",
+    "error_codes": null,
+    "regex_check": "^[a-zA-Z][a-zA-Z0-9_-]{1,40}"
+  },
+  "Rumble": {
+    "url": "https://rumble.com/user/{}",
+    "url_main": "https://rumble.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "SWAPD": {
+    "url": "https://swapd.co/u/{}",
+    "url_main": "https://swapd.co/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Sbazar.cz": {
+    "url": "https://www.sbazar.cz/{}",
+    "url_main": "https://www.sbazar.cz/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Scratch": {
+    "url": "https://scratch.mit.edu/users/{}",
+    "url_main": "https://scratch.mit.edu/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "SEOForum": {
+    "url": "https://seoforum.com/@{}",
+    "url_main": "https://www.seoforum.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Shelf": {
+    "url": "https://www.shelf.im/{}",
+    "url_main": "https://www.shelf.im/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "ShitpostBot5000": {
+    "url": "https://www.shitpostbot.com/user/{}",
+    "url_main": "https://www.shitpostbot.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Sketchfab": {
+    "url": "https://sketchfab.com/{}",
+    "url_main": "https://sketchfab.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Slack": {
+    "url": "https://{}.slack.com",
+    "url_main": "https://slack.com",
+    "error_codes": null,
+    "regex_check": "^[a-zA-Z][a-zA-Z0-9_-]*$"
+  },
+  "Slant": {
+    "url": "https://www.slant.co/users/{}",
+    "url_main": "https://www.slant.co/",
+    "error_codes": null,
+    "regex_check": "^.{2,32}$"
+  },
+  "Slides": {
+    "url": "https://slides.com/{}",
+    "url_main": "https://slides.com/",
+    "error_codes": 204,
+    "regex_check": null
+  },
+  "SmugMug": {
+    "url": "https://{}.smugmug.com",
+    "url_main": "https://smugmug.com",
+    "error_codes": null,
+    "regex_check": "^[a-zA-Z]{1,35}$"
+  },
+  "SOOP": {
+    "url": "https://www.sooplive.co.kr/station/{}",
+    "url_main": "https://www.sooplive.co.kr/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "SoundCloud": {
+    "url": "https://soundcloud.com/{}",
+    "url_main": "https://soundcloud.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "SourceForge": {
+    "url": "https://sourceforge.net/u/{}",
+    "url_main": "https://sourceforge.net/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "SpeakerDeck": {
+    "url": "https://speakerdeck.com/{}",
+    "url_main": "https://speakerdeck.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Speedrun.com": {
+    "url": "https://speedrun.com/users/{}",
+    "url_main": "https://speedrun.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Spells8": {
+    "url": "https://forum.spells8.com/u/{}",
+    "url_main": "https://spells8.com",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Splice": {
+    "url": "https://splice.com/{}",
+    "url_main": "https://splice.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Splits.io": {
+    "url": "https://splits.io/users/{}",
+    "url_main": "https://splits.io",
+    "error_codes": null,
+    "regex_check": "^[^.]*?$"
+  },
+  "Sporcle": {
+    "url": "https://www.sporcle.com/user/{}/people",
+    "url_main": "https://www.sporcle.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Sportlerfrage": {
+    "url": "https://www.sportlerfrage.net/nutzer/{}",
+    "url_main": "https://www.sportlerfrage.net/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "SportsRU": {
+    "url": "https://www.sports.ru/profile/{}/",
+    "url_main": "https://www.sports.ru/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Spotify": {
+    "url": "https://open.spotify.com/user/{}",
+    "url_main": "https://open.spotify.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Strava": {
+    "url": "https://www.strava.com/athletes/{}",
+    "url_main": "https://www.strava.com/",
+    "error_codes": null,
+    "regex_check": "^[^.]*?$"
+  },
+  "Substack": {
+    "url": "https://{}.substack.com/",
+    "url_main": "https://substack.com/",
+    "error_codes": null,
+    "regex_check": "^[a-zA-Z0-9][a-zA-Z0-9_-]{1,60}$"
+  },
+  "SublimeForum": {
+    "url": "https://forum.sublimetext.com/u/{}",
+    "url_main": "https://forum.sublimetext.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "TheMovieDB": {
+    "url": "https://www.themoviedb.org/u/{}",
+    "url_main": "https://www.themoviedb.org/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Tiendanube": {
+    "url": "https://{}.mitiendanube.com/",
+    "url_main": "https://www.tiendanube.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Topcoder": {
+    "url": "https://profiles.topcoder.com/{}/",
+    "url_main": "https://topcoder.com/",
+    "error_codes": null,
+    "regex_check": "^[a-zA-Z0-9_.]+$"
+  },
+  "Topmate": {
+    "url": "https://topmate.io/{}",
+    "url_main": "https://topmate.io/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "TRAKTRAIN": {
+    "url": "https://traktrain.com/{}",
+    "url_main": "https://traktrain.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Tellonym.me": {
+    "url": "https://tellonym.me/{}",
+    "url_main": "https://tellonym.me/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Tenor": {
+    "url": "https://tenor.com/users/{}",
+    "url_main": "https://tenor.com/",
+    "error_codes": null,
+    "regex_check": "^[A-Za-z0-9_]{2,32}$"
+  },
+  "ThemeForest": {
+    "url": "https://themeforest.net/user/{}",
+    "url_main": "https://themeforest.net/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "tistory": {
+    "url": "https://{}.tistory.com/",
+    "url_main": "https://www.tistory.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Trakt": {
+    "url": "https://www.trakt.tv/users/{}",
+    "url_main": "https://www.trakt.tv/",
+    "error_codes": null,
+    "regex_check": "^[^.]*$"
+  },
+  "TrashboxRU": {
+    "url": "https://trashbox.ru/users/{}",
+    "url_main": "https://trashbox.ru/",
+    "error_codes": null,
+    "regex_check": "^[A-Za-z0-9_-]{3,16}$"
+  },
+  "Trawelling": {
+    "url": "https://traewelling.de/@{}",
+    "url_main": "https://traewelling.de/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Tuna": {
+    "url": "https://tuna.voicemod.net/user/{}",
+    "url_main": "https://tuna.voicemod.net/",
+    "error_codes": null,
+    "regex_check": "^[a-z0-9]{4,40}$"
+  },
+  "Tweakers": {
+    "url": "https://tweakers.net/gallery/{}",
+    "url_main": "https://tweakers.net",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Ultimate-Guitar": {
+    "url": "https://ultimate-guitar.com/u/{}",
+    "url_main": "https://ultimate-guitar.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Unsplash": {
+    "url": "https://unsplash.com/@{}",
+    "url_main": "https://unsplash.com/",
+    "error_codes": null,
+    "regex_check": "^[a-z0-9_]{1,60}$"
+  },
+  "Untappd": {
+    "url": "https://untappd.com/user/{}",
+    "url_main": "https://untappd.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "VSCO": {
+    "url": "https://vsco.co/{}",
+    "url_main": "https://vsco.co/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Velog": {
+    "url": "https://velog.io/@{}/posts",
+    "url_main": "https://velog.io/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Vimeo": {
+    "url": "https://vimeo.com/{}",
+    "url_main": "https://vimeo.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "VLR": {
+    "url": "https://www.vlr.gg/user/{}",
+    "url_main": "https://www.vlr.gg",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "WICG Forum": {
+    "url": "https://discourse.wicg.io/u/{}/summary",
+    "url_main": "https://discourse.wicg.io/",
+    "error_codes": null,
+    "regex_check": "^(?![.-])[a-zA-Z0-9_.-]{3,20}$"
+  },
+  "Wakatime": {
+    "url": "https://wakatime.com/@{}",
+    "url_main": "https://wakatime.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Warrior Forum": {
+    "url": "https://www.warriorforum.com/members/{}.html",
+    "url_main": "https://www.warriorforum.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Wattpad": {
+    "url": "https://www.wattpad.com/user/{}",
+    "url_main": "https://www.wattpad.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "WebNode": {
+    "url": "https://{}.webnode.cz/",
+    "url_main": "https://www.webnode.cz/",
+    "error_codes": null,
+    "regex_check": "^[\\w@-]+?$"
+  },
+  "Weblate": {
+    "url": "https://hosted.weblate.org/user/{}/",
+    "url_main": "https://hosted.weblate.org/",
+    "error_codes": null,
+    "regex_check": "^[a-zA-Z0-9@._-]{1,150}$"
+  },
+  "Weebly": {
+    "url": "https://{}.weebly.com/",
+    "url_main": "https://weebly.com/",
+    "error_codes": null,
+    "regex_check": "^[a-zA-Z0-9-]{1,63}$"
+  },
+  "Windy": {
+    "url": "https://community.windy.com/user/{}",
+    "url_main": "https://windy.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Wix": {
+    "url": "https://{}.wix.com",
+    "url_main": "https://wix.com/",
+    "error_codes": null,
+    "regex_check": "^[\\w@-]+?$"
+  },
+  "WolframalphaForum": {
+    "url": "https://community.wolfram.com/web/{}/home",
+    "url_main": "https://community.wolfram.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Wykop": {
+    "url": "https://www.wykop.pl/ludzie/{}",
+    "url_main": "https://www.wykop.pl",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Xbox Gamertag": {
+    "url": "https://xboxgamertag.com/search/{}",
+    "url_main": "https://xboxgamertag.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "YouPic": {
+    "url": "https://youpic.com/photographer/{}/",
+    "url_main": "https://youpic.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "YouTube": {
+    "url": "https://www.youtube.com/@{}",
+    "url_main": "https://www.youtube.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "chaos.social": {
+    "url": "https://chaos.social/@{}",
+    "url_main": "https://chaos.social/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "couchsurfing": {
+    "url": "https://www.couchsurfing.com/people/{}",
+    "url_main": "https://www.couchsurfing.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "d3RU": {
+    "url": "https://d3.ru/user/{}/posts",
+    "url_main": "https://d3.ru/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "drive2": {
+    "url": "https://www.drive2.ru/users/{}",
+    "url_main": "https://www.drive2.ru/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "eGPU": {
+    "url": "https://egpu.io/forums/profile/{}/",
+    "url_main": "https://egpu.io/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "eintracht": {
+    "url": "https://community.eintracht.de/fans/{}",
+    "url_main": "https://eintracht.de",
+    "error_codes": null,
+    "regex_check": "^[^.]*?$"
+  },
+  "fixya": {
+    "url": "https://www.fixya.com/users/{}",
+    "url_main": "https://www.fixya.com",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "fl": {
+    "url": "https://www.fl.ru/users/{}",
+    "url_main": "https://www.fl.ru/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "freecodecamp": {
+    "url": "https://www.freecodecamp.org/{}",
+    "url_main": "https://www.freecodecamp.org/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "geocaching": {
+    "url": "https://www.geocaching.com/p/default.aspx?u={}",
+    "url_main": "https://www.geocaching.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "habr": {
+    "url": "https://habr.com/ru/users/{}",
+    "url_main": "https://habr.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "hackster": {
+    "url": "https://www.hackster.io/{}",
+    "url_main": "https://www.hackster.io",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "irecommend": {
+    "url": "https://irecommend.ru/users/{}",
+    "url_main": "https://irecommend.ru/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "jbzd.com.pl": {
+    "url": "https://jbzd.com.pl/uzytkownik/{}",
+    "url_main": "https://jbzd.com.pl/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "kwork": {
+    "url": "https://kwork.ru/user/{}",
+    "url_main": "https://www.kwork.ru/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "last.fm": {
+    "url": "https://last.fm/user/{}",
+    "url_main": "https://last.fm/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "leasehackr": {
+    "url": "https://forum.leasehackr.com/u/{}/summary/",
+    "url_main": "https://forum.leasehackr.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "livelib": {
+    "url": "https://www.livelib.ru/reader/{}",
+    "url_main": "https://www.livelib.ru/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "mastodon.cloud": {
+    "url": "https://mastodon.cloud/@{}",
+    "url_main": "https://mastodon.cloud/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "mastodon.social": {
+    "url": "https://mastodon.social/@{}",
+    "url_main": "https://chaos.social/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "mastodon.xyz": {
+    "url": "https://mastodon.xyz/@{}",
+    "url_main": "https://mastodon.xyz/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "mstdn.social": {
+    "url": "https://mstdn.social/@{}",
+    "url_main": "https://mstdn.social/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "mercadolivre": {
+    "url": "https://www.mercadolivre.com.br/perfil/{}",
+    "url_main": "https://www.mercadolivre.com.br",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "moikrug": {
+    "url": "https://moikrug.ru/{}",
+    "url_main": "https://moikrug.ru/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "mstdn.io": {
+    "url": "https://mstdn.io/@{}",
+    "url_main": "https://mstdn.io/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "nairaland.com": {
+    "url": "https://www.nairaland.com/{}",
+    "url_main": "https://www.nairaland.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "n8n Community": {
+    "url": "https://community.n8n.io/u/{}/summary",
+    "url_main": "https://community.n8n.io/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "nnRU": {
+    "url": "https://{}.www.nn.ru/",
+    "url_main": "https://www.nn.ru/",
+    "error_codes": null,
+    "regex_check": "^[\\w@-]+?$"
+  },
+  "note": {
+    "url": "https://note.com/{}",
+    "url_main": "https://note.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "npm": {
+    "url": "https://www.npmjs.com/~{}",
+    "url_main": "https://www.npmjs.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "osu!": {
+    "url": "https://osu.ppy.sh/users/{}",
+    "url_main": "https://osu.ppy.sh/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "pikabu": {
+    "url": "https://pikabu.ru/@{}",
+    "url_main": "https://pikabu.ru/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Pinterest": {
+    "url": "https://www.pinterest.com/{}/",
+    "url_main": "https://www.pinterest.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "pr0gramm": {
+    "url": "https://pr0gramm.com/user/{}",
+    "url_main": "https://pr0gramm.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "satsisRU": {
+    "url": "https://satsis.info/user/{}",
+    "url_main": "https://satsis.info/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "sessionize": {
+    "url": "https://sessionize.com/{}",
+    "url_main": "https://sessionize.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "social.tchncs.de": {
+    "url": "https://social.tchncs.de/@{}",
+    "url_main": "https://social.tchncs.de/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "spletnik": {
+    "url": "https://spletnik.ru/user/{}",
+    "url_main": "https://spletnik.ru/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "svidbook": {
+    "url": "https://www.svidbook.ru/user/{}",
+    "url_main": "https://www.svidbook.ru/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "toster": {
+    "url": "https://www.toster.ru/user/{}/answers",
+    "url_main": "https://www.toster.ru/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "tumblr": {
+    "url": "https://{}.tumblr.com/",
+    "url_main": "https://www.tumblr.com/",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "write.as": {
+    "url": "https://write.as/{}",
+    "url_main": "https://write.as",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "znanylekarz.pl": {
+    "url": "https://www.znanylekarz.pl/{}",
+    "url_main": "https://znanylekarz.pl",
+    "error_codes": null,
+    "regex_check": null
+  },
+  "Wowhead": {
+    "url": "https://wowhead.com/user={}",
+    "url_main": "https://wowhead.com/",
+    "error_codes": 404,
+    "regex_check": null
+  },
+  "addons.wago.io": {
+    "url": "https://addons.wago.io/user/{}",
+    "url_main": "https://addons.wago.io/",
+    "error_codes": 404,
+    "regex_check": null
+  },
+  "CurseForge": {
+    "url": "https://www.curseforge.com/members/{}/projects",
+    "url_main": "https://www.curseforge.com.",
+    "error_codes": 404,
+    "regex_check": null
+  }
+}

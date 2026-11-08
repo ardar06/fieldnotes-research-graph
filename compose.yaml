@@ -1,0 +1,43 @@
+services:
+  db:
+    image: postgres:17-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: fieldnotes
+      POSTGRES_USER: fieldnotes
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Create .env from .env.example or use scripts/start.sh}
+    volumes:
+      - fieldnotes-db:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U fieldnotes -d fieldnotes"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+
+  app:
+    build:
+      context: .
+      target: runtime
+    image: fieldnotes:local
+    restart: unless-stopped
+    environment:
+      DATABASE_URL: postgresql+psycopg://fieldnotes:${POSTGRES_PASSWORD}@db:5432/fieldnotes
+      AI_ENABLED: ${AI_ENABLED:-false}
+      AI_PROVIDER_NAME: ${AI_PROVIDER_NAME:-OpenAI-compatible}
+      AI_BASE_URL: ${AI_BASE_URL:-}
+      AI_MODEL: ${AI_MODEL:-}
+      AI_API_KEY: ${AI_API_KEY:-}
+      AI_SETTINGS_PATH: /var/lib/fieldnotes/ai-settings.json
+    volumes:
+      - fieldnotes-settings:/var/lib/fieldnotes
+    depends_on:
+      db:
+        condition: service_healthy
+    ports:
+      - "127.0.0.1:8000:8000"
+
+volumes:
+  fieldnotes-db:
+    name: fieldnotes-db
+  fieldnotes-settings:
+    name: fieldnotes-settings
